@@ -1,0 +1,6 @@
+{
+  "name": "LAN Realtime Quiz Competition System",
+  "description": "Hệ thống thi trắc nghiệm nội bộ Realtime cho nhiều đội qua mạng LAN với Server điều khiển, Client dự thi, Màn hình Display trình chiếu và bảng xếp hạng realtime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
